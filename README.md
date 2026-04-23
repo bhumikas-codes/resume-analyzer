@@ -1,5 +1,5 @@
 Resume Analyzer
-    It is a simple and student friendly web application which analyzes resumes based on selected roles & shows skill gaps!.
+  It is a simple and student friendly web application which analyzes resumes based on selected roles & shows skill gaps!.
 
 Tech Used
   * Python
@@ -7,9 +7,9 @@ Tech Used
   * HTML, CSS, JavaScript
 
 Features
-     * Upload Resume(PDF)
-     * Select job Role
-     * Get analysis results
+  * Upload Resume(PDF)
+  * Select job Role
+  * Get analysis results
 
 How to Run
  1) Install required libraries(Flask, PyPDF2)
@@ -17,9 +17,9 @@ How to Run
  3) Open: http://127.0.0.1:5000/
 
 Project Files
-    * app.py
-    * resume_analyzer.py
-    * templates/index.html
+  * app.py
+  * resume_analyzer.py
+  * templates/index.html
  
 
     
